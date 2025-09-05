@@ -1,3 +1,4 @@
+Personal Fork Only - Just for my USE, updates will be much more regular than the main pioneer space simulation where it seems their dev team is very thin and fairly inactive these days.  
 [![Build](https://github.com/pioneerspacesim/pioneer/workflows/Build%20Pioneer/badge.svg)](https://github.com/pioneerspacesim/pioneer/actions)
 [![License GPLv3](https://img.shields.io/badge/license-GPL_v3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 [![#pioneer on Libera.Chat](https://img.shields.io/badge/LiberaChat-%23pioneer-brightgreen.svg)](https://kiwiirc.com/client/irc.libera.chat/pioneer)
